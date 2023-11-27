@@ -2,7 +2,7 @@
 
 ## pmtree
 
-> A tiny script that helps you manage file permission and ownership.
+> Command line tool that helps you manage file permission and ownership.
 
 `sudo curl https://anio.sh/pmtree -o /usr/local/bin/anio_pmtree && chmod +x /usr/local/bin/anio_pmtree`
 
