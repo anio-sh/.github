@@ -12,6 +12,12 @@
 
 `sudo curl https://anio.sh/tardp -o /usr/local/bin/anio_tardp && chmod +x /usr/local/bin/anio_tardp`
 
+## tplinkcfggen
+
+> Command line tool to generate TP-Link Configuration files based on JavaScript config files.
+
+`sudo curl https://anio.sh/tplinkcfggen -o /usr/local/bin/anio_tplinkcfggen && chmod +x /usr/local/bin/anio_tplinkcfggen`
+
 ---
 
 - Repositories starting with `jsdev-` are tools to be used for javascript module development.
