@@ -20,7 +20,7 @@
 
 ---
 
-# ℹ About repository names
+# ⓘ About repository names
 
 - Repositories starting with `jsdev-` are tools to be used for javascript module development.
 - Repositories starting with `nodejs-` are libraries or command line tools targeting [nodejs](https://nodejs.org/en).
