@@ -1,12 +1,12 @@
 # Installing anio-sh tools
 
-## pmtree
+## pmtree - permission tree
 
 > Command line tool that helps you manage file permission and ownership.
 
 `sudo curl https://anio.sh/pmtree -o /usr/local/bin/anio_pmtree && chmod +x /usr/local/bin/anio_pmtree`
 
-## tardp
+## tardp - tar default permissions
 
 > Command line tool to create a script that sets the default owner and permissions for a given tar archive.
 
