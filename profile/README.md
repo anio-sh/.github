@@ -20,6 +20,8 @@
 
 ---
 
+# ℹ About repository names
+
 - Repositories starting with `jsdev-` are tools to be used for javascript module development.
 - Repositories starting with `nodejs-` are libraries or command line tools targeting [nodejs](https://nodejs.org/en).
 - If repository ends with `-cli` this means the repository code is for a [command line tool](https://en.wikipedia.org/wiki/Command-line_interface).
