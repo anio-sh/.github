@@ -2,10 +2,13 @@
 
 ## pmtree
 
+> A tiny script that helps you manage file permission and ownership.
+
 `sudo curl https://anio.sh/pmtree -o /usr/local/bin/anio_pmtree && chmod +x /usr/local/bin/anio_pmtree`
 
 ## tardp
 
+> A small tool to create a script that sets the default owner and permissions for a given tar archive.
 
 `sudo curl https://anio.sh/tardp -o /usr/local/bin/anio_tardp && chmod +x /usr/local/bin/anio_tardp`
 
