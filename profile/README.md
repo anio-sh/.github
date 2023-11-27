@@ -8,7 +8,7 @@
 
 ## tardp
 
-> A small tool to create a script that sets the default owner and permissions for a given tar archive.
+> Command line tool to create a script that sets the default owner and permissions for a given tar archive.
 
 `sudo curl https://anio.sh/tardp -o /usr/local/bin/anio_tardp && chmod +x /usr/local/bin/anio_tardp`
 
