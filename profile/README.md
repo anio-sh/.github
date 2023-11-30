@@ -1,6 +1,6 @@
 # Welcome
 
-This repository contains all code and projects for bootstrapping the [@anio-software](https://github.com/anio-software) project.
+This repository contains all code and tools for bootstrapping and managing the [@anio-software](https://github.com/anio-software) project.
 
 ## 🛠️ Installing anio-sh tools
 
