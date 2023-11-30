@@ -18,7 +18,7 @@
 
 `sudo curl https://anio.sh/packager -o /usr/local/bin/anio_packager && chmod +x /usr/local/bin/anio_packager`
 
-## tplinkcfggen
+## tplinkcfggen - tp link configuration tool
 
 > Command line tool to generate TP-Link Configuration files based on JavaScript config files.
 
