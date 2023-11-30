@@ -12,6 +12,12 @@
 
 `sudo curl https://anio.sh/tardp -o /usr/local/bin/anio_tardp && chmod +x /usr/local/bin/anio_tardp`
 
+## packager - create .anio packages
+
+> Command line tool to create .anio packages.
+
+`sudo curl https://anio.sh/packager -o /usr/local/bin/anio_packager && chmod +x /usr/local/bin/anio_packager`
+
 ## tplinkcfggen
 
 > Command line tool to generate TP-Link Configuration files based on JavaScript config files.
